@@ -17,11 +17,16 @@ Se pueden ejecutar los ficheros desde Visual Studio Code ue es gratis y se puede
 Puedes descargar los ficheros y guardarlos en la siguiente ruta 'D:/PythonDimas/JSON/'
 Si quieres cambiar la ruta sólo tienes que cambiar la variable **ruta** que está al principio de los 2 ficheros de python.
 
-**leercsvmadridapi.ipynb** 
-Es un Jupyter Notebook que se puede ejecutar desde Visual Studio Code. Lo he hecho en este formato para poder ejecutarlo por partes e ir viendo los resultados poco a poco.
+**leercsvmadridapi.ipynb**  
+Es un Jupyter Notebook que se puede ejecutar desde Visual Studio Code. Lo he hecho en este formato para poder ejecutarlo por partes e ir viendo los resultados poco a poco. 
+
 Este fichero lee el fichero **https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.csv** desde la API, guarda el fichero **actividades-100.csv** para trabajar con el y hacer algunas operaciones con la librería pandas para crear el fichero **actividades-100-fin.csv**
 
-**usoplotly.py** es un fichero de python normal.
-Este fichero lee el fichero **actividades-100-fin.csv** ya filtrado anteriormente y muestra en un mapa sencillo las actividades culturales.
+**usoplotly.py**  
+es un fichero de python normal.  
 
-También hay una copia de los archivos de datos **actividades-100.csv** y **actividades-100-fin.csv**.
+Este fichero lee el fichero **actividades-100-fin.csv** ya filtrado anteriormente y muestra en un mapa sencillo las actividades culturales.  
+  
+***
+    
+#### * *También hay una copia de los archivos de datos **actividades-100.csv** y **actividades-100-fin.csv**.*
