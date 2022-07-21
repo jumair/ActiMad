@@ -14,7 +14,7 @@ Se pueden ejecutar los ficheros desde Visual Studio Code ue es gratis y se puede
 
 ### Ficheros
 
-Puedes descargar los ficheros y guardarlos en la siguiente ruta 'D:/PythonDimas/JSON/'
+Puedes descargar los ficheros y guardarlos en la siguiente ruta 'D:/GitHub/ActiMad/'
 Si quieres cambiar la ruta sólo tienes que cambiar la variable **ruta** que está al principio de los 2 ficheros de python.
 
 **leercsvmadridapi.ipynb**  
@@ -25,7 +25,8 @@ Este fichero lee el fichero **https://datos.madrid.es/egob/catalogo/206974-0-age
 **usoplotly.py**  
 es un fichero de python normal.  
 
-Este fichero lee el fichero **actividades-100-fin.csv** ya filtrado anteriormente y muestra en un mapa sencillo las actividades culturales.  
+Este fichero lee el fichero **actividades-100-fin.csv** ya filtrado anteriormente y muestra en un mapa sencillo las actividades culturales.
+También crea el fichero **mapa_acti_mad.html** en la misma carpeta con el mapa creado.
   
 ***
     
